@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"painel.js -> ../components/PainelAcademia\":{\"id\":\"painel.js -> ../components/PainelAcademia\",\"files\":[\"static/chunks/components_PainelAcademia_js.js\"]}}"
